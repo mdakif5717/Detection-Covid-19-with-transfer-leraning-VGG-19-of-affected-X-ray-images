@@ -32,6 +32,12 @@ This project implements a deep learning-based classification model to detect COV
 
 The model demonstrates the capability of transfer learning using VGG-19 to classify COVID-19 from X-ray images with good accuracy, depending on the dataset quality and preprocessing.
 
+## 📉 Example Results
+
+Below is a sample confusion matrix from evaluating the VGG-19 model on a COVID-19 chest X-ray dataset:
+
+![Confusion Matrix](confusion_matrix_example.png)
+
 ## 📄 License
 
 This project is released under the [MIT License](LICENSE).
